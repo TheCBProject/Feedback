@@ -4,10 +4,19 @@ ChickenBones mods Feedback Repo.
 
 This repository is for tracking bugs and providing suggestions for ALL of ChickenBones mods. It's far easier for us to check one place instead of 6 or 7. Use the issue tracker associated with this repository for bug reports and feature suggestions.
 
+### ChickenBones Mods
+- [CodeChicken Lib](https://mods.curse.com/mc-mods/minecraft/242818-codechicken-lib-1-8)
+- [Not Enough Items](https://mods.curse.com/mc-mods/minecraft/247694-not-enough-items-1-8)
+- [Chicken Chunks](https://mods.curse.com/mc-mods/minecraft/243883-chicken-chunks-1-8)
+- [Ender Storage](https://mods.curse.com/mc-mods/minecraft/245174-ender-storage-1-8)
+- [Forge MultiPart CBE](https://mods.curse.com/mc-mods/minecraft/258426-forge-multipart-cbe)
+- [Wireless Redstone CBE](https://mods.curse.com/mc-mods/minecraft/260824-wireless-redstone-cbe)
+- [Translocators](https://mods.curse.com/mc-mods/minecraft/247695-translocators-1-8)
+
 ##### If your game is crashing on startup:
 - The issue is practically guaranteed to be on your end. This is not tech support, please check the IRC. The link is below.
 - Update to Java 8. Uninstall Java 6.
-- Update your mods! Use mods ONLY from Curse. //TODO Update website with links to curse.
+- Update your mods! Use mods ONLY from Curse.
 - Be sure you do not have duplicates of mods.
 - Make sure you've done the above.
 - Seriously, if you are crashing on startup, it is almost certainly something you have done incorrectly.
