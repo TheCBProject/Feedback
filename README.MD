@@ -5,13 +5,13 @@ ChickenBones mods Feedback Repo.
 This repository is for tracking bugs and providing suggestions for ALL of ChickenBones mods. It's far easier for us to check one place instead of 6 or 7. Use the issue tracker associated with this repository for bug reports and feature suggestions.
 
 ### ChickenBones Mods
-- [CodeChicken Lib](https://mods.curse.com/mc-mods/minecraft/242818-codechicken-lib-1-8)
-- [Not Enough Items](https://mods.curse.com/mc-mods/minecraft/247694-not-enough-items-1-8)
-- [Chicken Chunks](https://mods.curse.com/mc-mods/minecraft/243883-chicken-chunks-1-8)
-- [Ender Storage](https://mods.curse.com/mc-mods/minecraft/245174-ender-storage-1-8)
-- [Forge MultiPart CBE](https://mods.curse.com/mc-mods/minecraft/258426-forge-multipart-cbe)
-- [Wireless Redstone CBE](https://mods.curse.com/mc-mods/minecraft/260824-wireless-redstone-cbe)
-- [Translocators](https://mods.curse.com/mc-mods/minecraft/247695-translocators-1-8)
+- [CodeChicken Lib](https://minecraft.curseforge.com/projects/codechicken-lib-1-8)
+- [Not Enough Items](https://minecraft.curseforge.com/projects/not-enough-items-1-8)
+- [Chicken Chunks](https://minecraft.curseforge.com/projects/chicken-chunks-1-8)
+- [Ender Storage](https://minecraft.curseforge.com/projects/ender-storage-1-8)
+- [Forge MultiPart CBE](https://minecraft.curseforge.com/projects/forge-multipart-cbe)
+- [Wireless Redstone CBE](https://minecraft.curseforge.com/projects/wireless-redstone-cbe)
+- [Translocators](https://minecraft.curseforge.com/projects/translocators-1-8)
 
 ##### If your game is crashing on startup:
 - The issue is practically guaranteed to be on your end. This is not tech support, please check the IRC. The link is below.
