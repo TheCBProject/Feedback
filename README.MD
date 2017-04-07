@@ -12,7 +12,7 @@ This repository is for tracking bugs and providing suggestions for ALL of Chicke
 - Make sure you've done the above.
 - Seriously, if you are crashing on startup, it is almost certainly something you have done incorrectly.
 - Try to make the crash happen with just ChickenBones mods - nothing else.
-- If that last step worked, you may have a mod-conflict. Update all of your mods.
+- If that last step worked, you may have a mod conflict. Update all of your mods.
 - If you still have an actual issue, report away!
 
 ##### If you want to report a bug:
@@ -42,9 +42,9 @@ If you cannot do the above, please do not suggest any features.
 - Link is below!
 - Thanks kk.
 
-If you cannot follow any of the rules stated out here, you will most likeley get your issue insta closed..
+If you cannot follow any of the rules stated out here, you will most likeley get your issue insta-closed.
 
-If you complain about not being noticed on IRC or any other platform you find me on, Make sure you mention me or i wont check the program.
+If you complain about not being noticed on IRC or any other platform you find me on, make sure you mention me (covers1624) or I won't check the program.
 
 #### Links
 
